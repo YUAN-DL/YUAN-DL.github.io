@@ -20,7 +20,7 @@ timezone: Europe/Moscow
 
 title: Yuan Dongliang's blog # the main title
 
-tagline: 凡有所相 皆为虚妄 # it will display as the sub-title
+tagline: 和光同尘 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   无聊的时候可能会更新文章
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: light # [light|dark]
+theme_mode: [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
